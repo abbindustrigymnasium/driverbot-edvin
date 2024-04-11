@@ -1,5 +1,6 @@
 # Planering DriverBot
-Jag ska göra en radiostyrd Volvo 740 som kan åka fram och bakåt, svänga samt ha blinkers där fram. 
+Jag ska göra en radiostyrd Volvo 740 som kan åka fram och bakåt, svänga samt ha blinkers där fram.
+Möjligtvit vill jag även lägga till en växelspak där man kan ändra hastighet och byta ut "Backknappen" mot R på växellådan
 Min ambition är att få en bil som fungerar genom hemsidan då jag aldrig har kodad HTML och vet inte ens vad det är
 
 
