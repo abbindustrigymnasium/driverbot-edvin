@@ -1,7 +1,7 @@
 <script>
     	import { onSend, startConnect} from '../stores/mqttStore';
     	import { isConnected} from '../stores/store';
-let test="hejhej"
+
     // Function to send MQTT message
     function sendMessage(direction) {
         if (!['up', 'down', 'right', 'left','stop', 'straight' ].includes(direction))
